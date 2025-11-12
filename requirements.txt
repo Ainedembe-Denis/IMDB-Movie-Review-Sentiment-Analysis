@@ -1,1 +1,18 @@
-Requirements
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Natural Language Processing
+nltk>=3.8
+wordcloud>=1.9.0
+
+# Jupyter Notebook - without JupyterLab to avoid Windows path length issues
+notebook>=6.5.0
+ipykernel>=6.25.0
+
