@@ -46,3 +46,33 @@ The project structure will be as below:
 ├── requirements.txt
 └── README.md
 ```
+## Setup
+
+### Prerequisites
+- Python 3.8+ 
+- pip package manager
+
+### Installation
+
+1. Install required packages:
+```bash
+pip install -r requirements.txt
+```
+
+Or install individually:
+```bash
+pip install notebook ipykernel
+pip install pandas numpy matplotlib seaborn scikit-learn scipy nltk wordcloud
+```
+
+2. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+3. Navigate to `notebooks/sentiment_analysis.ipynb` in the browser
+
+4. Clearing outputs via commandline
+```bash
+jupyter nbconvert --clear-output --inplace notebooks/sentiment_analysis.ipynb
+```
