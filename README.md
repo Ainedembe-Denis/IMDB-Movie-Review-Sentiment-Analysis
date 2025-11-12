@@ -2,6 +2,9 @@
 
 This project implements comprehensive sentiment analysis on IMDB movie reviews using traditional machine learning techniques, including EDA, feature engineering, and statistical inference.
 
+- About Dataset: 
+The IMDb dataset is a large collection of movie-related data sourced from the Internet Movie Database (IMDb). It includes information about thousands of movies, television shows, and other media, such as cast details, genres, directors, user ratings, and reviews. 
+
 ## Dataset
 
 - **Location**: `dataset/IMDB-Dataset.csv`
