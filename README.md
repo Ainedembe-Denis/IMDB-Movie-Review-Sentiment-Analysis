@@ -6,7 +6,7 @@ This project implements comprehensive sentiment analysis on IMDB movie reviews u
 The IMDb dataset is a large collection of movie-related data sourced from the Internet Movie Database (IMDb). It includes information about thousands of movies, television shows, and other media, such as cast details, genres, directors, user ratings, and reviews. 
 
 ## Dataset
-
+- **Source**: the dataset should be downloaded from https://www.kaggle.com/datasets/mahmoudshaheen1134/imdp-data extract the zipped file and rename it as `IMDB-Dataset.csv` and put it under location as below:
 - **Location**: `dataset/IMDB-Dataset.csv`
 - **Description**: Contains movie reviews with binary sentiment labels (positive/negative)
 - **Dataset Brief**: See `dataset/IMDB-data.docx` for detailed dataset information
